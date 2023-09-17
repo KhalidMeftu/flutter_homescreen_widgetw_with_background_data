@@ -1,4 +1,4 @@
-# flutter_homescreen_widgetw_with_background_data
+# flutter_homescreen_widget_with_background_data
 The "Flutter Home Screen Widget Example" is a sample project that demonstrates the implementation of a basic home screen layout using Flutter widgets. It provides a starting point for building a visually appealing and functional home screen for your Flutter applications.
 The "Flutter Home Screen Widget Example" project serves as a reference and starting point for Flutter developers who want to create their own customized home screen layouts. It provides a clear structure and implementation patterns that can be adapted and expanded upon for building complex Flutter applications.
 By studying and experimenting with the code in this project, developers can gain a better understanding of Flutter's widget system, navigation concepts, and layout design principles. They can also learn how to leverage Flutter's extensive widget library to create visually engaging and interactive user interfaces.
