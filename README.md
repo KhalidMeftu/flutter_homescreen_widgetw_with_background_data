@@ -15,3 +15,5 @@ clone repo remove news folder and move it to htdocs open your project in android
 ## References
 https://codelabs.developers.google.com/flutter-home-screen-widgets#0
 https://pub.dev/packages/workmanager
+## Full Article url
+https://medium.com/@khalidmeftu/how-to-create-flutter-home-screen-widget-7a74b425780a
